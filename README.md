@@ -6,11 +6,11 @@ In waiting for different projects and database files, we invite you to discover 
 
 o	Link to Odoo setup https://www.odoo.com/fr_FR/page/download
 
-•	Ecolcafé SCADA: o Ignition
+•	Ecolcafé SCADA:
 
 o	Link to Ignition setup https://inductiveautomation.com/downloads/
 
-•	SysML Architecture of "Les Torrefacteurs 4.0": o Visual Paragdigm
+•	SysML Architecture of "Les Torrefacteurs 4.0":
 
 o	Link to Visual paradigm setup https://www.visual-paradigm.com/download/community.jsp
 
