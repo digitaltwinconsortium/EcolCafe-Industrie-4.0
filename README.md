@@ -4,7 +4,7 @@ In waiting for different projects and database files, we invite you to discover 
 
 •	Ecolcafé ERP:
 
-o	Link to Odoo setup https://www.odoo.com/fr_FR/page/download
+o	Link to Odoo community version 14 setup https://www.odoo.com/page/download
 
 •	Ecolcafé SCADA:
 
